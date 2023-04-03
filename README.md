@@ -1,4 +1,3 @@
-**Before** we dive into building a classifier for breast cancer tumors, we will first discuss how the data are generated and what the various features mean.
 
 ![alt text](https://www.rxdatascience.com/hubfs/Raj%20Files/es1.jpg)
 

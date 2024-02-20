@@ -1,3 +1,5 @@
+## Tumor Detection via Logistic Regression
+A statistical approach to tumor detection using structured clinical features.
 
 ![alt text](https://www.rxdatascience.com/hubfs/Raj%20Files/es1.jpg)
 
